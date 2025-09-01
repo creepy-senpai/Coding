@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("Hello World!\n");
+	printf("Hello world!\n");
 }
